@@ -96,8 +96,8 @@ msgid "Settings"
 msgstr ""
 
 #: edx_sga/templates/staff_graded_assignment/show.html
-msgid "File uploaded"
-msgstr ""
+msgid "الملف المرفوع"
+msgstr "الملف المرفوع"
 
 #: edx_sga/templates/staff_graded_assignment/show.html
 msgid "No file has been uploaded."
@@ -113,12 +113,12 @@ msgid "Annotated file from instructor"
 msgstr ""
 
 #: edx_sga/templates/staff_graded_assignment/show.html
-msgid "This assignment has not yet been graded."
-msgstr ""
+msgid "لقد تم إرسال ملفك للمرشد بنجاح"
+msgstr "لقد تم إرسال ملفك للمرشد بنجاح"
 
 #: edx_sga/templates/staff_graded_assignment/show.html
-msgid "Upload a different file"
-msgstr ""
+msgid "إعادة تحميل ملف جديد"
+msgstr "إعادة تحميل ملف جديد"
 
 #: edx_sga/templates/staff_graded_assignment/show.html
 msgid "Upload your assignment"
@@ -226,8 +226,8 @@ msgid "Comment:"
 msgstr ""
 
 #: edx_sga/templates/staff_graded_assignment/show.html
-msgid "Submit"
-msgstr ""
+msgid "إرسال الواجب"
+msgstr "إرسال الواجب"
 
 #: edx_sga/templates/staff_graded_assignment/show.html
 msgid "Cancel"
