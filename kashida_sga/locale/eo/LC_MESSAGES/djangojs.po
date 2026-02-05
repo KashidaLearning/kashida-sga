@@ -38,8 +38,8 @@ msgstr ""
 "¢σηѕє¢тєтυя#"
 
 #: edx_sga/static/js/src/edx_sga.js
-msgid "Uploading... %(percent)s %"
-msgstr "Ûplöädïng... %(percent)s % Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+msgid "تحميل... %(percent)s %"
+msgstr "تحميل... %(percent)s % Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
 
 #: edx_sga/static/js/src/edx_sga.js
 msgid "Grade must be a number."

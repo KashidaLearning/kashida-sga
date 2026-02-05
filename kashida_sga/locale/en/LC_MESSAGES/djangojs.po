@@ -21,7 +21,7 @@ msgid "Upload %(file_name)s"
 msgstr ""
 
 #: edx_sga/static/js/src/edx_sga.js
-msgid "Uploading..."
+msgid "تحميل..."
 msgstr ""
 
 #: edx_sga/static/js/src/edx_sga.js
@@ -33,7 +33,7 @@ msgid "There was an error uploading your file."
 msgstr ""
 
 #: edx_sga/static/js/src/edx_sga.js
-msgid "Uploading... %(percent)s %"
+msgid "تحميل... %(percent)s %"
 msgstr ""
 
 #: edx_sga/static/js/src/edx_sga.js

@@ -163,7 +163,7 @@ function StaffGradedAssignmentXBlock(runtime, element) {
           url: url,
           progressall: function (e, data) {
             var percent = parseInt(data.loaded / data.total * 100, 10);
-            row.find('.upload').text(interpolate(gettext('Uploading... %(percent)s %'), { percent: percent }, true));
+            row.find('.upload').text(interpolate(gettext('تحميل... %(percent)s %'), { percent: percent }, true));
           },
           done: function (e, data) {
             // Add a time delay so user will notice upload finishing
