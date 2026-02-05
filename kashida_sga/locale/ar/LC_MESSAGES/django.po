@@ -11,3 +11,6 @@ msgstr "الملف المرفوع"
 
 msgid "Submit"
 msgstr "إرسال الواجب"
+
+msgid "This assignment has not yet been graded."
+msgstr "لقد تم إرسال ملفك للمرشد بنجاح"
