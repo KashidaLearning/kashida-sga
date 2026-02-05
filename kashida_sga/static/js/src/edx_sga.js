@@ -60,7 +60,7 @@ function StaffGradedAssignmentXBlock(runtime, element) {
           var size = data.files[0].size;
           if (!_.isUndefined(size)) {
             //if file size is larger max file size define in env(django)
-            if (size >= data_max_size) {
+            if (size >= 104857600) {
               state.error = gettext('The file you are trying to upload is too large.');
               render(state);
               return;

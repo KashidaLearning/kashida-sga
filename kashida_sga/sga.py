@@ -217,6 +217,10 @@ class KashidaStaffGradedAssignmentXBlock(
         require(self.upload_allowed())
         user = self.get_real_user()
         require(user)
+        
+        if "assignment" not in request.params:
+            raise JsonHandlerError(400, "No file was uploaded or the file was blocked by the server limit.")
+            
         upload = request.params["assignment"]
         filename = upload.file.name
         if not is_allowed_file(filename):
