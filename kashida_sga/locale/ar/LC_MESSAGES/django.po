@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Language: ar\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Upload a different file"
+msgstr "إعادة تحميل ملف جديد"
+
+msgid "File uploaded"
+msgstr "الملف المرفوع"
+
+msgid "Submit"
+msgstr "إرسال الواجب"
